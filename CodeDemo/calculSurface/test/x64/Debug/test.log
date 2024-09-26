@@ -1,0 +1,6 @@
+﻿  test.c
+C:\AlexandreRabaldProgramation\test\test\test.c(48,30): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\AlexandreRabaldProgramation\test\test\test.c(51,34): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\AlexandreRabaldProgramation\test\test\test.c(54,47): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\AlexandreRabaldProgramation\test\test\test.c(57,41): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  test.vcxproj -> C:\AlexandreRabaldProgramation\test\x64\Debug\test.exe
